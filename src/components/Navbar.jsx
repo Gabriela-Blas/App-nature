@@ -10,7 +10,7 @@ const Navbar = () => {
 
 				<div className='bg-[#e5e5e5] flex flex-col gap-4 py-4'>
 					<div className='flex flex-row px-4 relative items-center'>
-						<img src='img/perfil.jpeg' alt='perfil' className='h-12 w-12 rounded-full object-cover' />
+						<img src='/logo512.png' alt='perfil' className='h-12 w-12 rounded-full object-cover' />
 						<div className='relative ml-4 leading-3'>
 							<p>Hello </p>
 							<p className='text-green-500 text-lg font-medium'>Hesam</p>
