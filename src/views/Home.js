@@ -10,7 +10,7 @@ import Explore from '../components/Explore';
 const Home = () => {
 
 	return (
-		<div className='h-screen w-screen'>
+		<div className='h-auto w-screen pb-20'>
 				<Navbar />
 				<Product />
 				<Discount />
